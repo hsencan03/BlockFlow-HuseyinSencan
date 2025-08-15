@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea66141492084c279fe8b6b142bc0967, type: 3}
+  m_Name: GridPrefabsConfig
+  m_EditorClassIdentifier: 
+  gridTilePrefab: {fileID: 872380396586105943, guid: 372b71aa1549e6f47a2958e57de3489a,
+    type: 3}
+  grinderPrefab: {fileID: 1771225418893779877, guid: 085fabb6822eb954bbfe8291790551ef,
+    type: 3}
+  wallPrefab: {fileID: 4446013860876564115, guid: fdda90ad52cd29043876e318e828730b,
+    type: 3}
+  wallCornerPrefab: {fileID: 4967164870174836305, guid: 062036a95f1d36a4cb72f373bb1fc38c,
+    type: 3}
+  SM_Block_Cube_S_01: {fileID: -21019200627067270, guid: 075fa626244a09f4b82e2e96059c22df,
+    type: 3}
+  SM_Block_Cube_SL_01: {fileID: -5855873185557096669, guid: bd6c338e0ed59e640b24c5e62902dbce,
+    type: 3}
+  SM_Block_L_L_01: {fileID: 1452719255864384513, guid: 212d7bc57021ddf4cba3528809b9ca5c,
+    type: 3}
+  SM_Block_L_L_Mirror_01: {fileID: 3198660864630748222, guid: ddd8d700ca257b6459d6b888eebd8ddc,
+    type: 3}
+  SM_Block_L_S_01: {fileID: -7096076699248157713, guid: a1b4220b6dc576c46a95abd55eabaa10,
+    type: 3}
+  SM_Block_Line_L_01: {fileID: -8762440354261198719, guid: 723026c3d9f5d4b429db592f7a22b30c,
+    type: 3}
+  SM_Block_Line_S_01: {fileID: -521500534319720644, guid: 662f74bddbd1d0049829632d0196ef62,
+    type: 3}
+  SM_Block_Plus_L_01: {fileID: 5329414523088829617, guid: bf4946ba0d52c0346aee6cfb1bf91f5b,
+    type: 3}
+  SM_Block_T_L_01: {fileID: 7844054409646213421, guid: 6d8ad5be6e87ef646a053976a305f06c,
+    type: 3}
+  SM_Block_Z_L_01: {fileID: 4335334605813228313, guid: 41af1378dcec63a4b97670452c5c1bb6,
+    type: 3}
+  frozenMaterial: {fileID: 2100000, guid: a5d9012e3dac47045979f10af19e1743, type: 2}

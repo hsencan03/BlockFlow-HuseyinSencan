@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ae3835c190d8304888e6edbd76f1c62, type: 3}
+  m_Name: ProjectScriptableObjectInstaller
+  m_EditorClassIdentifier: 
+  config: {fileID: 11400000, guid: 574f1924d31609749ac77909d93fcdb6, type: 2}
+  gridPrefabsConfig: {fileID: 11400000, guid: 6da6ecf2ce3a1664aa78b06374ab0ffa, type: 2}
+  audioClipContainer: {fileID: 11400000, guid: 2b3de553c4fd5394686456ed278f1697, type: 2}

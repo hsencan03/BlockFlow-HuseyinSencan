@@ -1,0 +1,20 @@
+{
+  "gridWidth": 6,
+  "gridHeight": 6,
+  "timeLimit": "02:00",
+  "blocks": [
+    { "x": 5, "y": 1, "color": 0, "type": 2, "movementType" : 0, "rotation" : 0 },
+    { "x": 1, "y": 5, "color": 3, "type": 3, "state" : 1, "movementType" : 0, "grindAttempts" : 1, "rotation" : 0 },
+    { "x": 1, "y": 4, "color": 1, "type": 5, "movementType" : 0, "rotation" : 180 },
+    { "x": 1, "y": 1, "color": 2, "type": 2, "movementType" : 0, "rotation" : 0 },
+    { "x": 2, "y": 0, "color": 3, "type": 5, "movementType" : 0, "rotation" : 0 }
+
+
+  ],
+  "grinders": [
+    { "x": 1, "y": 5, "length": 3, "color": 1 },
+    { "x": 0, "y": 1, "length": 2, "color": 0 },
+    { "x": 1, "y": 0, "length": 3, "color": 2 },
+    { "x": 5, "y": 4, "length": 2, "color": 3 } 
+  ]
+}

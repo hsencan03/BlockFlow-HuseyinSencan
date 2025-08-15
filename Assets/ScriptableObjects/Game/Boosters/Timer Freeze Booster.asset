@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6204b8df2c4a9ab68277f4448614c7, type: 3}
+  m_Name: Timer Freeze Booster
+  m_EditorClassIdentifier: 
+  durationInSeconds: 5
+  uiEffect: {fileID: 2033749228726887134, guid: d9118a6aded86b14d88a5ae092e11eea,
+    type: 3}
+  canvas: {fileID: 0}
